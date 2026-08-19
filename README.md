@@ -30,6 +30,7 @@ Repository ini berisi semua hasil pembelajaran dan tugas selama PKL di bidang **
 
 **Nama:** Putri Nadia Febrianti  
 **Tempat PKL:** Upatik  
-**Periode:** 01 Juli 2026 – 31 Desember 2026
-**Jurusan:** Rekayasa Perangkat Lunak  
+**Periode:** [01 Juli 2026] – [31 Desember 2026]
+**Sekolah:** [SMK Negeri 1 Kertosono]
+**Jurusan:** [Rekayasa Perangkat Lunak] 
 
