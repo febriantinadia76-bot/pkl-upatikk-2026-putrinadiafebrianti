@@ -32,5 +32,5 @@ Repository ini berisi semua hasil pembelajaran dan tugas selama PKL di bidang **
 **Tempat PKL:** Upatik  
 **Periode:** 01 Juli 2026 – 31 Desember 2026
 **Sekolah:** SMK Negeri 1 Kertosono  
-**Jurusan:** [Rekayasa Perangkat Lunak]  
+**Jurusan:** Rekayasa Perangkat Lunak  
 
