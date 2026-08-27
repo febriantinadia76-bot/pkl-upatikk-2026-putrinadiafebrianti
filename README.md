@@ -1,6 +1,3 @@
- HEAD
-"# pkl-upatikk-2026-putrinadiafebrianti" 
-
 # 📚 PKL Upatik 2026 – Putri Nadia Febrianti
 
 Repository ini berisi semua hasil pembelajaran selama PKL di bidang Database & SQL.
