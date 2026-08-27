@@ -36,4 +36,4 @@ Repository ini berisi semua hasil pembelajaran dan tugas selama PKL di bidang **
 **Periode:** [01 Juli 2026] – [31 Desember 2026]  
 **Sekolah:** [SMK Negeri 1 Kertosono]  
 **Jurusan:** [Rekayasa Perangkat Lunak]  
-e813244efefe6353c06e9d2d8ec167c021838dda
+
