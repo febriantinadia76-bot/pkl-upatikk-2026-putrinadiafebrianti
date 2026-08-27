@@ -1,0 +1,11 @@
+# File sementara
+*.log
+*.tmp
+*.swp
+
+# Folder library
+node_modules/
+vendor/
+
+# File konfigurasi
+.env
